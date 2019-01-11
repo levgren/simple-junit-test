@@ -1,6 +1,4 @@
-/**
- * Run simple selenium tests in Chrome browser
- */
+
 
 import org.junit.*;
 import org.openqa.selenium.By;
